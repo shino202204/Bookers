@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   # homesコントローラのルーティング
-  get 'top' => 'homes#top'
+  # get 'top' => 'homes#top'
+  root to: 'homes#top'
 
   # booksコントローラのルーティング
   resources :books
