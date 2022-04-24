@@ -1,24 +1,9 @@
-# README
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+DMM WEBCAMPのアプリケーションを完成させようの提出課題です。
 
-Things you may want to cover:
+## コメント
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+中原 紫乃です。
+課題2を提出させていただきます。
+ご確認の程よろしくお願いいたします。
